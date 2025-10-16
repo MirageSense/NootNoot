@@ -1,0 +1,21 @@
+[
+  {
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://betyaptv121.live/&size=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MirageSense/NootNoot",
+    "fileSize": 10964,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MirageSense"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "BetYap",
+    "description": "Canlı maç izleme keyfi burada.",
+    "url": "https://raw.githubusercontent.com/MirageSense/NootNoot/builds/BetYap.cs3",
+    "name": "BetYap"
+  }
+]
