@@ -17,5 +17,24 @@
     "description": "Canlı maç izleme keyfi burada.",
     "url": "https://raw.githubusercontent.com/MirageSense/NootNoot/builds/BetYap.cs3",
     "name": "BetYap"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.monotv524.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MirageSense/NootNoot",
+    "fileSize": 11953,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MirageSense"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "MonoTv",
+    "description": "Mono TV ile bedava hd donmadan canlı Taş izle. Mono altyapısı ile kurulan MonoTv ile tüm cantıklı müsabakaları izleyebilirsiniz.",
+    "url": "https://raw.githubusercontent.com/MirageSense/NootNoot/builds/MonoTv.cs3",
+    "name": "MonoTv"
   }
 ]
