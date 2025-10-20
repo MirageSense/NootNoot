@@ -19,10 +19,10 @@
     "name": "BetYap"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.monotv524.com&sz=%size%",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://monotv524.com&size=16",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/MirageSense/NootNoot",
-    "fileSize": 11953,
+    "fileSize": 11236,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -31,7 +31,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "MonoTv",
     "description": "Mono TV ile bedava hd donmadan canlı Taş izle. Mono altyapısı ile kurulan MonoTv ile tüm cantıklı müsabakaları izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/MirageSense/NootNoot/builds/MonoTv.cs3",
