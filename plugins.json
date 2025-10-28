@@ -22,7 +22,7 @@
     "iconUrl": "https://i.pinimg.com/736x/7d/d1/e0/7dd1e00ffaf78656604ca12c7ed9a9a2.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/MirageSense/NootNoot",
-    "fileSize": 18253,
+    "fileSize": 19596,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -31,7 +31,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "Golge",
     "description": "Golgelerdeyim.",
     "url": "https://raw.githubusercontent.com/MirageSense/NootNoot/builds/Golge.cs3",
