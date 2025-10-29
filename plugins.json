@@ -12,7 +12,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "BetYap",
     "description": "Canlı maç izleme keyfi burada.",
     "url": "https://raw.githubusercontent.com/MirageSense/NootNoot/builds/BetYap.cs3",
@@ -50,7 +50,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "MonoTv",
     "description": "Mono TV ile bedava hd donmadan canlı Taş izle. Mono altyapısı ile kurulan MonoTv ile tüm cantıklı müsabakaları izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/MirageSense/NootNoot/builds/MonoTv.cs3",
