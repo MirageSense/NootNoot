@@ -19,10 +19,10 @@
     "name": "BetYap"
   },
   {
-    "iconUrl": "https://i.pinimg.com/736x/7d/d1/e0/7dd1e00ffaf78656604ca12c7ed9a9a2.jpg",
+    "iconUrl": "https://i.postimg.cc/s2Lr1LPC/first-sonic-the-hedgehog-3-trailer-reveals-keanu-reeves-shad-2fzj.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/MirageSense/NootNoot",
-    "fileSize": 19596,
+    "fileSize": 19058,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -31,7 +31,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "Golge",
     "description": "Golgelerdeyim.",
     "url": "https://raw.githubusercontent.com/MirageSense/NootNoot/builds/Golge.cs3",
