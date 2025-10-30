@@ -57,6 +57,26 @@
     "name": "MonoTv"
   },
   {
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://puhutv.com&size=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MirageSense/NootNoot",
+    "fileSize": 16276,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MirageSense"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "PuhuTv",
+    "description": "Puhu Tv.",
+    "url": "https://raw.githubusercontent.com/MirageSense/NootNoot/builds/PuhuTv.cs3",
+    "name": "PuhuTv"
+  },
+  {
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.selcuksportshd39d2c90818.xyz/&size=32",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/MirageSense/NootNoot",
