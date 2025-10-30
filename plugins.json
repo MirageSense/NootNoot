@@ -3,7 +3,7 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.atv.com.tr&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/MirageSense/NootNoot",
-    "fileSize": 19598,
+    "fileSize": 19527,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -12,7 +12,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "Atv",
     "description": "Atv",
     "url": "https://raw.githubusercontent.com/MirageSense/NootNoot/builds/Atv.cs3",
