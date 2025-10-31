@@ -69,7 +69,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "MonoTv",
     "description": "Mono TV ile bedava hd donmadan canlı Taş izle. Mono altyapısı ile kurulan MonoTv ile tüm cantıklı müsabakaları izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/MirageSense/NootNoot/builds/MonoTv.cs3",
