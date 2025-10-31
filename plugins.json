@@ -113,5 +113,42 @@
     "description": "selcuk sports hd.",
     "url": "https://raw.githubusercontent.com/MirageSense/NootNoot/builds/SelcukSports.cs3",
     "name": "SelcukSports"
+  },
+  {
+    "iconUrl": "https://seeklogo.com/images/T/tabii-logo-60B8BC0D5D-seeklogo.com.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MirageSense"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 9,
+    "internalName": "Tabii",
+    "description": "Tabii içeriklerine bu eklenti sayesinde erişebilirsiniz",
+    "url": "https://raw.githubusercontent.com/MirageSense/NootNoot/builds/Tabii.cs3",
+    "name": "Tabii"
+  },
+  {
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIcV2dIah9UvEIUZvpzRA4K6OgsW7waPBMw&s",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MirageSense"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 3,
+    "internalName": "Exxen",
+    "description": "Exxen Full",
+    "url": "https://raw.githubusercontent.com/MirageSense/NootNoot/builds/Exxen.cs3",
+    "name": "Exxen"
   }
 ]
