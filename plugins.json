@@ -38,6 +38,25 @@
     "name": "BetYap"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MirageSense/NootNoot",
+    "fileSize": 9170,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MirageSense"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 0,
+    "internalName": "BosEklenti",
+    "description": "BosEklenti.",
+    "url": "https://raw.githubusercontent.com/MirageSense/NootNoot/builds/BosEklenti.cs3",
+    "name": "BosEklenti"
+  },
+  {
     "iconUrl": "https://i.imgur.com/qkMNE27.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/MirageSense/NootNoot",
