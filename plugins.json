@@ -95,6 +95,27 @@
     "name": "MonoTv"
   },
   {
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.primevideo.com&size=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MirageSense/NootNoot",
+    "fileSize": 18920,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MirageSense"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "PrimeVideo",
+    "description": "PrimeVideo.",
+    "url": "https://raw.githubusercontent.com/MirageSense/NootNoot/builds/PrimeVideo.cs3",
+    "name": "PrimeVideo"
+  },
+  {
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://puhutv.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/MirageSense/NootNoot",
